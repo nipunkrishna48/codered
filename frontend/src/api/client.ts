@@ -9,7 +9,7 @@ import type {
   Project,
 } from "../types/api";
 
-const API_BASE = "";
+const API_BASE = "https://codered-backend-w22s.onrender.com";
 
 async function requestJson<T>(url: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${API_BASE}${url}`, init);
