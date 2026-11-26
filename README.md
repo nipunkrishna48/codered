@@ -24,3 +24,8 @@ npm run dev
 ```
 
 Open `http://localhost:5173` in your browser.
+
+## Live Frontend
+
+The frontend is published at [https://nipunkrishna48.github.io/codered/](https://nipunkrishna48.github.io/codered/).
+Analysis features require the FastAPI backend to be hosted separately.
